@@ -7,21 +7,47 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Papers
-    url: /#papers
-    weight: 11
-  - name: Talks
-    url: /#talks
-    weight: 12
   - name: News
     url: /#news
-    weight: 13
+    weight: 11
   - name: Experience
-    url: experience/
-    weight: 20
-  - name: Projects
-    url: projects/
-    weight: 30
-  - name: Teaching
-    url: teaching/
-    weight: 40
+    url: /#experience
+    weight: 12
+  - name: Skills
+    url: /#skills
+    weight: 13
+  - name: Work
+    url: /#work
+    weight: 14
+  - name: Products
+    url: /#products
+    weight: 15
+  - name: Events
+    url: /#events
+    weight: 16
+  - name: Awards
+    url: /#awards
+    weight: 17
+
+# main:
+#   - name: Bio
+#     url: /
+#     weight: 10
+#   - name: Papers
+#     url: /#papers
+#     weight: 11
+#   - name: Talks
+#     url: /#talks
+#     weight: 12
+#   - name: News
+#     url: /#news
+#     weight: 13
+#   - name: Experience
+#     url: experience/
+#     weight: 20
+#   - name: Projects
+#     url: projects/
+#     weight: 30
+#   - name: Teaching
+#     url: teaching/
+#     weight: 40
