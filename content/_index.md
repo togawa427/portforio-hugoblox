@@ -73,6 +73,7 @@ sections:
 
   # 経歴
   - block: resume-experience
+    id: experience
     content:
       username: admin
     design:
@@ -84,6 +85,7 @@ sections:
 
   # スキル
   - block: resume-skills
+    id: skills
     content:
       title: Skills
       username: admin
@@ -92,8 +94,9 @@ sections:
   
   # 職務経歴
   - block: resume-skills
+    id: work
     content: 
-      title: Resume
+      title: Work
       username: admin
     design:
       show_skill_percentage: false
@@ -101,6 +104,7 @@ sections:
 
   # 開発物
   - block: collection
+    id: products
     content:
       title: Products & Development
       text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
@@ -112,9 +116,9 @@ sections:
       fill_image: false
       columns: 3
 
-  # 研究実績
+  # 発表実績
   - block: collection
-    id: research
+    id: events
     content:
       title: Events
       subtitle: '発表実績'

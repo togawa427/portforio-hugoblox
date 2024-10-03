@@ -598,6 +598,8 @@
       "diagrams",
       "did-you-find-this-page-helpful-consider-sharing-it-",
       "ecosystem",
+      "events",
+      "experience",
       "features",
       "get-started",
       "hide-button",
@@ -616,8 +618,10 @@
       "page-bg",
       "papers",
       "podcast",
+      "products",
       "profile",
       "research",
+      "resume",
       "search",
       "search_toggle",
       "section-collection",
@@ -633,6 +637,7 @@
       "share-link-x",
       "show-button",
       "site-header",
+      "skills",
       "spoiler-2",
       "spoiler-3",
       "sun",
@@ -641,7 +646,8 @@
       "themes",
       "todo-lists",
       "top",
-      "video"
+      "video",
+      "work"
     ]
   }
 }
