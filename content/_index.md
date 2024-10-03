@@ -45,7 +45,7 @@ sections:
     id: news
     content:
       title: News
-      subtitle: ''
+      subtitle: 'ニュース'
       text: ''
       # Page type to display. E.g. post, talk, publication...
       page_type: post
