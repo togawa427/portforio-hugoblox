@@ -31,6 +31,9 @@ tags:
 ## 感想
 今回初めての英語発表でした。 質疑応答ももちろん英語で行われかつ15分と長めでしたのでとても不安でした。しかし、発表原稿を覚えていたおかげでよく使う文法や単語が頭に入っていたのでなんとか切り抜けることができました。また、他の発表にも何回か英語で質問できたのでよかったかなと思います。 さらに、賞をいただけたことはとても嬉しく今後の研究に対する大きなモチベーションとなりました。これからもより一層研究に励みたいと思います。
 
+{{< linkcard "https://kajilab.net/hpg/blog/2024-06-27/" >}}
+
+
 <!-- ## Overview
 
 1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
