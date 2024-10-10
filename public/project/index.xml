@@ -7,7 +7,7 @@
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7332470351240446449.png</url>
       <title>Projects</title>
       <link>http://localhost:1313/project/</link>
     </image>
@@ -34,6 +34,67 @@
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Photoshop, Illustrator, Blender による作品</title>
+      <link>http://localhost:1313/project/cg2022/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/cg2022/</guid>
+      <description>&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;目次&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#cdジャケット&#34;&gt;CDジャケット&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#コラージュ&#34;&gt;コラージュ&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#イラストマップ&#34;&gt;イラストマップ&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;cdジャケット&#34;&gt;CDジャケット&lt;/h2&gt;
+&lt;p&gt;一昔前のドラゴンクエストや星のカービィなどのレトロゲームのBGMを集めたCDジャケットをオリジナルで製作した作品。レトロ感を出すためにドットの絵柄やフォントを使用した。右上に黒い雲と赤い月を配置することで不穏な雰囲気を出しストーリー性を出した。&lt;/p&gt;
+&lt;h2 id=&#34;コラージュ&#34;&gt;コラージュ&lt;/h2&gt;
+&lt;p&gt;タイムトラベルをテーマにPhotoShopを使用して制作した作品。ヘルメットを装備し腕立て状態の自分とバイクそれぞれの写真を合わせて飛んでいる感を演出した。 また様々な色の時計を右上に吸い込まれるように歪ませることで、右上がタイムトラベルのゴールなんだとわかるようにした。&lt;/p&gt;
+&lt;h2 id=&#34;イラストマップ&#34;&gt;イラストマップ&lt;/h2&gt;
+&lt;p&gt;自宅周辺の地図をIllustratorを用いて制作。地図を正確に表現するだけでなく、小牧市のゆるきゃらである「こまき山」を入れることで小牧市感を出した。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>うさぎの復讐</title>
+      <link>http://localhost:1313/project/usagitokame/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/usagitokame/</guid>
+      <description>&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;目次&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#概要&#34;&gt;概要&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#システム詳細&#34;&gt;システム詳細&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#動作映像&#34;&gt;動作映像&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;p&gt;童謡「うさぎとかめ」をモチーフにしたコマンドラインで動作するゲーム。 「u」がうさぎで「k」がかめ。プレイヤーはうさぎを何マス進むか毎ターン選択してかめより早く右端に到達したらクリア。 かめは毎ターン2マス進む。うさぎは欲張って多く進みすぎると眠気が増えてしまい確率で次のターン眠ってしまう。&lt;/p&gt;
+&lt;h2 id=&#34;システム詳細&#34;&gt;システム詳細&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;使用言語&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;C&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;動作映像&#34;&gt;動作映像&lt;/h2&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/uM5qCwfSTkk?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;</description>
     </item>
     
   </channel>

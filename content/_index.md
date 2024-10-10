@@ -6,10 +6,13 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: 
+    "2rem"
+    # padding: [10, 10, 10, 10]
+  
 
 sections:
-  - block: resume-biography-3
+  - block: my-resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -22,6 +25,7 @@ sections:
         image:
           # Add your image background to `assets/media/`.
           filename: stacked-waves-yellow.svg
+          #filename: stacked-peaks.svg
           filters:
             brightness: 1.0
           size: cover
@@ -82,6 +86,8 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
+      spacing:
+        padding: [10, 0, 0, 0]
 
   # スキル
   - block: resume-skills
@@ -91,16 +97,27 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
+      spacing:
+        padding: [10, 0, 0, 0]
   
   # 職務経歴
-  - block: resume-skills
+  - block: resume-awards
     id: work
-    content: 
-      title: Work
-      username: admin
+    content:
+      title: Works
+      username: work
     design:
-      show_skill_percentage: false
       css_class: "bg-gray-100"
+      spacing:
+        padding: [10, 0, 0, 0]
+  # - block: resume-skills
+  #   id: work
+  #   content: 
+  #     title: Work
+  #     username: admin
+  #   design:
+  #     show_skill_percentage: false
+  #     css_class: "bg-gray-100"
 
   # 開発物
   - block: collection
@@ -115,35 +132,45 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
+      spacing:
+        padding: [10, 0, 0, 0]
 
   # 発表実績
-  - block: collection
+  - block: resume-awards
     id: events
     content:
       title: Events
-      subtitle: '発表実績'
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
+      username: event
     design:
       css_class: "bg-gray-100"
-      # Choose a layout view
-      view: date-title-summary
+      spacing:
+        padding: [10, 0, 0, 0]
+  
+  # - block: collection
+  #   id: events
+  #   content:
+  #     title: Events
+  #     subtitle: '発表実績'
+  #     # Page type to display. E.g. post, talk, publication...
+  #     page_type: event
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     # Filter on criteria
+  #     filters:
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     css_class: "bg-gray-100"
+  #     # Choose a layout view
+  #     view: date-title-summary
 
   # 出版物      
   # - block: collection
@@ -159,35 +186,44 @@ sections:
   #     columns: 2
 
   # 受賞歴
-  - block: collection
+  - block: resume-awards
     id: awards
     content:
       title: Awards
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
+      username: admin
     design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
       spacing:
         padding: [10, 0, 0, 0]
+
+  # - block: collection
+  #   id: awards
+  #   content:
+  #     title: Awards
+  #     subtitle: ''
+  #     text: ''
+  #     # Page type to display. E.g. post, talk, publication...
+  #     page_type: post
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: date-title-summary
+  #     # Reduce spacing
+  #     spacing:
+  #       padding: [10, 0, 0, 0]
 
 
   # - block: collection

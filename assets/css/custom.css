@@ -1,0 +1,179 @@
+.resume-biography {
+  #profile {
+    text-align: center;
+    padding: 0px 10px;
+    position: relative;
+  }
+
+  #
+}
+
+.avatar-wrapper {
+  position: relative;
+  width: 220px;
+  /* Match image size in about.avatar widget */
+  height: 220px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.home-section-bg {
+  width: 100%;
+  /*Scale the div to the parent width*/
+  height: 100%;
+  /*The div needs some height to be visible*/
+  background-size: 100%;
+  /* Always size the image to the width of the div */
+  background-position: top;
+  /* Position the image to the top center of the div */
+}
+
+/* For any viewports less than 1000px wide */
+@media (max-width: 1000px) {
+
+  .home-section-bg {
+    background-size: 1000px 600px;
+    /* Force the image to its minimum width */
+  }
+
+}
+
+#section-my-resume-biography-3 {
+  padding: 2rem 0 4rem 0 !important;
+}
+
+#resume-biography-text-and-profile {
+  top: 75%;
+  position: relative;
+}
+
+#aflep-discovery-research-highlight {
+  /* background-color: white; */
+  padding: 0rem 0 2rem 0 !important;
+}
+
+#section-research-highlights {
+  /* background-color: white; */
+  padding: 2rem 0 2rem 0 !important;
+}
+
+#section-research-highlights-left {
+  /* background-color: white; */
+  padding: 2rem 0 2rem 0 !important;
+}
+
+#indiv-research-highlight-title {
+  font-size: 25px;
+}
+
+#research-highlights {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+#research-highlights-text {
+  max-width: 750px !important;
+}
+
+#research-highlights-text-left {
+  max-width: 750px !important;
+  text-align: right;
+}
+
+#research-highlights-title {
+  padding: 2rem 0 2rem 0 !important;
+}
+
+#research-highlights-just-text {
+  font-size: 12pt;
+  max-width: 750px;
+}
+
+#about-me .max-w-prose {
+  max-width: 850px;
+  font-size: 20pt;
+}
+
+#about-me {
+  margin: 0rem 0 2rem 0 !important;
+  padding: 0rem 0 0rem 0 !important;
+}
+
+.skills-name {
+  text-transform: none;
+}
+
+#Select\ PI\ Observing\ Programs {
+  text-align: right;
+}
+
+#awards-and-observing-container {
+  max-width: 90ch;
+}
+
+#pub-title {
+  font-size: 16pt;
+  font-weight: 600;
+}
+
+#pub-subtitle {
+  color: gray;
+  /* rgb(182, 242, 213); */
+  font-weight: 500;
+}
+
+
+
+
+/* headlines with lines */
+#markdown-title {
+  overflow: hidden;
+  text-align: center;
+  background: transparent;
+  padding-bottom: 2rem;
+}
+
+#markdown-title>span {
+  position: relative;
+  display: inline-block;
+}
+
+#markdown-title>span:before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  /* width:100%; */
+  left: calc(-50vw + 50%);
+  right: 0vw;
+  border-bottom: 3px solid lightgray;
+  border-radius: 3px;
+  /* width: 40vw; */
+  margin: 0 60px 0 60px;
+  /* display:flex */
+}
+
+#markdown-title>span:after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  /* width:100%; */
+  left: 0;
+  right: calc(-50vw + 50%);
+  border-bottom: 3px solid lightgray;
+  border-radius: 3px;
+  /* width: 40vw; */
+  margin: 0 60px 0 60px;
+  /* display:flex */
+}
+
+#markdown-title>span:before {
+  right: 100%;
+}
+
+#markdown-title>span:after {
+  left: 100%;
+}
+
+#papers {
+  padding: 2rem 0 2rem 0 !important;
+}
