@@ -445,21 +445,59 @@ Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main
   &lt;div class=&#34;text-sm&#34;&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#論文概要&#34;&gt;論文概要&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#感想&#34;&gt;感想&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
   &lt;/div&gt;
 &lt;/details&gt;
 
-&lt;p&gt;2024年9月1日から4日にかけて福岡県柳川市で開催された「18th International Workshop on Informatics (IWIN2024)」にて「A Proposal of Smartphone Beacons in Stay Estimation System using BLE」と題して発表した論文がExellent Paper Awardを受賞しました。&lt;/p&gt;
-&lt;h2 id=&#34;論文概要&#34;&gt;論文概要&lt;/h2&gt;
-&lt;p&gt;近年、BLEビーコンを用いた滞在推定システムの実用化が進んでいます。しかし、従来のシステムはユーザーが専用デバイスを持ち歩く必要や、バッテリー消費の大きなスマホアプリをインストールする必要があるなどの課題がありました。
-そこで本研究では、バッテリー消費の小さいスマホアプリの開発に加え、各ユーザーが専用デバイスとスマホアプリのどちらを使用するかを選べる柔軟なシステムを構築しました。このアプローチにより、幅広いユーザーが自分に合った方法を選択でき、よりさまざまな場面で使用できるシステムを実現しました。
-&lt;img src=&#34;togawa_iwin2024_overview.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;2024年6月26日から28日にかけて岩手県花巻市で開催されたマルチメディア，分散，協調とモバイル(DICOMO2024)シンポジウムにて、「滞在管理システムおけるスマホビーコンの実現」と題して発表しました。&lt;/p&gt;
+&lt;!-- &lt;img src=&#34;togawa_iwin2024_overview.jpg&#34;&gt; --&gt;
 &lt;!-- &lt;img width=&#34;600&#34; alt=&#34;20240926_173215.jpg (438.8 kB)&#34; src=&#34;https://img.esa.io/uploads/production/attachments/13979/2024/09/30/129838/4f346fb5-b750-417a-b538-89cd4987a2cf.jpg&#34;&gt; --&gt;
 &lt;h2 id=&#34;感想&#34;&gt;感想&lt;/h2&gt;
-&lt;p&gt;今回初めての英語発表でした。 質疑応答ももちろん英語で行われかつ15分と長めでしたのでとても不安でした。しかし、発表原稿を覚えていたおかげでよく使う文法や単語が頭に入っていたのでなんとか切り抜けることができました。また、他の発表にも何回か英語で質問できたのでよかったかなと思います。 さらに、賞をいただけたことはとても嬉しく今後の研究に対する大きなモチベーションとなりました。これからもより一層研究に励みたいと思います。&lt;/p&gt;
+&lt;p&gt;今回初めての全国規模の学会発表で非常に緊張しました。緊張のあまりマイクを使うのを終始忘れていましたが、声量でなんとかカバーしスムーズに発表できました。質疑応答の時間には時間オーバーするほど多くの質問やコメントをいただくことができました。発表後には他大学の先生から個別にスマホビーコンについて質問を受けて色々実のある話ができました。今回の経験を今後の研究に活かしていきたいと思います。&lt;/p&gt;
+&lt;p&gt;
+            &lt;div class=&#34;web-card group h-[120px] bg-white border shadow rounded-lg my-4 sm:my-6 px-0 overflow-hidden&#34;&gt;
+              &lt;a href=&#34;https://www.dicomo.org/2024/&#34; class=&#34;flex group-hover:no-underline&#34;&gt;
+
+                &lt;div class=&#34;h-[120px] w-[120px] sm:w-auto max-w-[230px]&#34;&gt;
+                  
+                  
+                  &lt;div
+                    class=&#34;flex h-[120px] w-[120px] max-w-[230px] bg-gray-300 justify-center items-center text-center&#34;&gt;
+                    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;1.5&#34;
+                      stroke=&#34;currentColor&#34; class=&#34;h-8 w-8&#34;&gt;
+                      &lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;
+                        d=&#34;M2.25 15.75l5.159-5.159a2.25 2.25 0 013.182 0l5.159 5.159m-1.5-1.5l1.409-1.409a2.25 2.25 0 013.182 0l2.909 2.909m-18 3.75h16.5a1.5 1.5 0 001.5-1.5V6a1.5 1.5 0 00-1.5-1.5H3.75A1.5 1.5 0 002.25 6v12a1.5 1.5 0 001.5 1.5zm10.5-11.25h.008v.008h-.008V8.25zm.375 0a.375.375 0 11-.75 0 .375.375 0 01.75 0z&#34; /&gt;
+                    &lt;/svg&gt;
+                  &lt;/div&gt;
+                  
+                &lt;/div&gt;
+
+                &lt;div
+                  class=&#34;flex flex-1 flex-col justify-between py-2 px-4 sm:py-3 sm:px-5 transition ease-in-out duration-100 group-hover:bg-primary-color-50&#34;&gt;
+                  &lt;div class=&#34;flex flex-1 flex-col gap-y-1&#34;&gt;
+                    &lt;div class=&#34;text-sm sm:text-base font-bold text-gray-800 leading-normal break-words line-clamp-2&#34;&gt;
+                      
+                      
+                      www.dicomo.org
+                      
+                    &lt;/div&gt;
+                    &lt;div class=&#34;text-xs sm:text-sm text-gray-600 line-clamp-2&#34;&gt;
+                      
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+
+                  &lt;div class=&#34;flex flex-1 flex-col justify-end&#34;&gt;
+                    &lt;div class=&#34;flex flex-row items-center&#34;&gt;
+                      &lt;img src=&#34;https://www.google.com/s2/favicons?sz=14&amp;amp;domain_url=https://www.dicomo.org&#34;
+                        class=&#34;fav-icon mr-1&#34; alt=&#34;www.dicomo.org favicon image&#34;&gt;
+                      &lt;span class=&#34;text-xs sm:text-sm text-gray-600&#34;&gt;www.dicomo.org&lt;/span&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+              &lt;/a&gt;
+            &lt;/div&gt;
 
             &lt;div class=&#34;web-card group h-[120px] bg-white border shadow rounded-lg my-4 sm:my-6 px-0 overflow-hidden&#34;&gt;
               &lt;a href=&#34;https://kajilab.net/hpg/blog/2024-06-27/&#34; class=&#34;flex group-hover:no-underline&#34;&gt;
@@ -497,7 +535,7 @@ Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main
                   &lt;/div&gt;
                 &lt;/div&gt;
               &lt;/a&gt;
-            &lt;/div&gt;
+            &lt;/div&gt;&lt;/p&gt;
 &lt;!-- ## Overview
 
 1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
@@ -571,27 +609,72 @@ Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main
     </item>
     
     <item>
-      <title>Pandas</title>
-      <link>http://localhost:1313/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
+      <title>梶研売店システム</title>
+      <link>http://localhost:1313/project/kajilabshop/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/kajilabshop/</guid>
+      <description>&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;目次&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#概要&#34;&gt;概要&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#システム詳細&#34;&gt;システム詳細&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#開発経緯&#34;&gt;開発経緯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#動作映像&#34;&gt;動作映像&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;p&gt;自分の所属する研究室の売店で使用する在庫管理・レジシステム。&lt;br&gt;
+我々の研究室ではカップ麺やお菓子、ジュース、アイスなど約40種の商品を研究室内でメンバ向けに販売している。
+その商品在庫や販売情報をWebで閲覧できるシステム。
+またオリジナルプリペイドカード「梶研Payカード」によるキャッシュレスにも対応している。&lt;/p&gt;
+&lt;h2 id=&#34;システム詳細&#34;&gt;システム詳細&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;［使用言語/ライブラリ］&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Next.js&lt;/li&gt;
+&lt;li&gt;React&lt;/li&gt;
+&lt;li&gt;TypeScript&lt;/li&gt;
+&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;CSS&lt;/li&gt;
+&lt;li&gt;Golang&lt;/li&gt;
+&lt;li&gt;Gin&lt;/li&gt;
+&lt;li&gt;SQL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;［その他技術］&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CAD&lt;/li&gt;
+&lt;li&gt;3Dプリンター&lt;/li&gt;
+&lt;li&gt;CloudLogging&lt;/li&gt;
+&lt;li&gt;CloudStorage&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;開発経緯&#34;&gt;開発経緯&lt;/h2&gt;
+&lt;p&gt;システムは大きく分けて「レジ端末」「Web」「バックエンド」の3部分からなる。&lt;br&gt;
+レジ端末はラズパイとタッチモニタ、バーコードリーダ、3Dプリンタで作成した筐体から構成されている。 購入者はバーコードリーダで商品を読み取り画面の案内に従いお金を投入する。 商品入荷時もこの端末から行う。&lt;br&gt;
+Webでは在庫や売上情報の確認ができる。&lt;br&gt;
+バックエンドではレジ端末やWeb部分からのリクエストに応じて売上情報や在庫情報などの処理を行う。 またこの商店システムはプリペイド式のキャッシュレス方法をとっているため、データが消えることは許されない。
+そのため、毎日1回クラウドへデータベースのバックアップを保存するのと、ログをクラウドに残すという工夫をしている。 これにより、サーバにもし何かトラブルがあってもデータは復旧できる。&lt;/p&gt;
+&lt;h2 id=&#34;動作映像&#34;&gt;動作映像&lt;/h2&gt;
+&lt;p&gt;
+
     
-    <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1313/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/fG_5YlgJLC4?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;br&gt;
+
+
     
-    <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1313/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/gzjXI1Py3CA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -859,6 +942,169 @@ data.head()
     </item>
     
     <item>
+      <title>表情記憶ゲーム</title>
+      <link>http://localhost:1313/project/facememorygame/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/facememorygame/</guid>
+      <description>&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;目次&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#概要&#34;&gt;概要&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#システム詳細&#34;&gt;システム詳細&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#動作映像&#34;&gt;動作映像&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;p&gt;最初に流れる右のイラストの表情の順番を覚えて自分も同じ表情をするゲーム。&lt;br&gt;
+PySimpleGUIでGUI画面を作成し、Dlibで顔のランドマークを取得して表情の判定を行なっている。&lt;/p&gt;
+&lt;h2 id=&#34;システム詳細&#34;&gt;システム詳細&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;［使用言語/ライブラリ］&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;PySimpleGUI&lt;/li&gt;
+&lt;li&gt;Dlib&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;動作映像&#34;&gt;動作映像&lt;/h2&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/qqUuFUwohVI?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>ぬいぐるみアクションゲーム</title>
+      <link>http://localhost:1313/project/nuigurumigame/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/nuigurumigame/</guid>
+      <description>&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;目次&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#概要&#34;&gt;概要&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#システム詳細&#34;&gt;システム詳細&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#動作映像&#34;&gt;動作映像&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;p&gt;ペンギンのぬいぐるみを動かしてゲームの中のペンギンを動かすアクションゲーム。赤い球に当たらないように気をつけながら右端の海を目指そう！&lt;br&gt;
+仕組みとしてはぬいぐるみに縫い合わせたM5Stickで加速度と角速度を取得し、それを用いて「歩く判定」「ジャンプ判定」をしている。&lt;/p&gt;
+&lt;h2 id=&#34;システム詳細&#34;&gt;システム詳細&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;［使用言語］&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;C++&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;［使用機材］&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;M5StickC Plus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;動作映像&#34;&gt;動作映像&lt;/h2&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/KK4EOHSozFA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>New写真収集アプリ</title>
+      <link>http://localhost:1313/project/pcam/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pcam/</guid>
+      <description>&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;目次&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#概要&#34;&gt;概要&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#システム詳細&#34;&gt;システム詳細&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#動作映像&#34;&gt;動作映像&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;p&gt;自分の所属する写真研究部で部員から写真を集める際に使用するWebアプリ。&lt;br&gt;
+Laravelで開発した写真収集アプリの様々な問題点を解決するために、Flaskを使って大きく作り直した。 写真部にとって必要不可欠のインフラとなっており、2年以上にわたって改修を重ねながら運用を続けている。&lt;/p&gt;
+&lt;h2 id=&#34;システム詳細&#34;&gt;システム詳細&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;［使用言語/ライブラリ］&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Flask&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;CSS&lt;/li&gt;
+&lt;li&gt;SQL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;動作映像&#34;&gt;動作映像&lt;/h2&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/1rH18jOk5rE?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>写真収集アプリ</title>
+      <link>http://localhost:1313/project/photoapp/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/photoapp/</guid>
+      <description>&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;目次&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#概要&#34;&gt;概要&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#システム詳細&#34;&gt;システム詳細&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#開発経緯&#34;&gt;開発経緯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#動作映像&#34;&gt;動作映像&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;p&gt;自分の所属する写真研究部で部員から写真を集める際に使用するWebアプリ。&lt;br&gt;
+部員は撮影会などで撮影した写真をこのWebアプリを用いてアップロードすることで手軽に写真提出ができる。&lt;/p&gt;
+&lt;h2 id=&#34;システム詳細&#34;&gt;システム詳細&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;［使用言語/ライブラリ］&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Laravel&lt;/li&gt;
+&lt;li&gt;PHP&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;CSS&lt;/li&gt;
+&lt;li&gt;SQL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;開発経緯&#34;&gt;開発経緯&lt;/h2&gt;
+&lt;p&gt;これまで、撮影会などの写真を集める際には、部員がUSBメモリを部室に持参するかLINEで部長に送るという方法しかありませんでした。しかし、どちらの方法も部員や部長にとって大きな負担となっていました。そこで、Webアプリを経由してサーバーにデータを集める仕組みを導入すれば、部員はWeb上で簡単に写真をアップロードでき部長はWeb経由でサーバーから写真をダウンロードするだけで済むと考えました。ちょうどその時、独学で学んでいたPHPフレームワークのLaravelを用いてこのWebアプリを開発しました。開発後、このWebアプリは写真研究部にとって必要不可欠なインフラとなり大いに活用されました。&lt;/p&gt;
+&lt;h2 id=&#34;動作映像&#34;&gt;動作映像&lt;/h2&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/1rH18jOk5rE?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;</description>
+    </item>
+    
+    <item>
       <title>Photoshop, Illustrator, Blender による作品</title>
       <link>http://localhost:1313/project/cg2022/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
@@ -905,7 +1151,7 @@ data.head()
 &lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
 &lt;p&gt;童謡「うさぎとかめ」をモチーフにしたコマンドラインで動作するゲーム。 「u」がうさぎで「k」がかめ。プレイヤーはうさぎを何マス進むか毎ターン選択してかめより早く右端に到達したらクリア。 かめは毎ターン2マス進む。うさぎは欲張って多く進みすぎると眠気が増えてしまい確率で次のターン眠ってしまう。&lt;/p&gt;
 &lt;h2 id=&#34;システム詳細&#34;&gt;システム詳細&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;使用言語&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;［使用言語］&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;C&lt;/li&gt;
 &lt;/ul&gt;

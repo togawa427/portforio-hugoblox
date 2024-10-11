@@ -1,6 +1,6 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: 2024年10月10日 --><html lang="ja" dir="ltr"
+<!-- Last Published: 2024年10月11日 --><html lang="ja" dir="ltr"
       data-wc-theme-default="system">
   
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -64,6 +64,9 @@
   
   
 
+  
+    
+    <link href="/css/custom.min.c623cae246ac4ce38807161260b56472ac766f642f6fd705da4d7230a80b43fe.css" rel="stylesheet" />
   
 
   <script>
@@ -270,8 +273,6 @@
   
   
   
-  
-  
     
       
       
@@ -334,6 +335,9 @@
       
     
   
+  
+  
+  
     
       
       
@@ -482,6 +486,8 @@
       
       
     
+  
+  
   
   
   
@@ -876,12 +882,6 @@
   
     <ul class="hb-sidebar-mobile-toc"><li>
               <a
-                href="#%e8%ab%96%e6%96%87%e6%a6%82%e8%a6%81"
-                class="hb-docs-link"
-              >論文概要</a>
-            </li>
-          <li>
-              <a
                 href="#%e6%84%9f%e6%83%b3"
                 class="hb-docs-link"
               >感想</a>
@@ -931,25 +931,41 @@
         <ul class="hb-sidebar-list"><li class="flex flex-col "><a
     class="hb-sidebar-custom-link
       text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/project/pandas/"
+    href="/project/kajilabshop/"
     
-  >Pandas
+  >梶研売店システム
     </a>
               
             </li><li class="flex flex-col "><a
     class="hb-sidebar-custom-link
       text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/project/pytorch/"
+    href="/project/facememorygame/"
     
-  >PyTorch
+  >表情記憶ゲーム
     </a>
               
             </li><li class="flex flex-col "><a
     class="hb-sidebar-custom-link
       text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/project/scikit/"
+    href="/project/nuigurumigame/"
     
-  >scikit-learn
+  >ぬいぐるみアクションゲーム
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/project/pcam/"
+    
+  >New写真収集アプリ
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/project/photoapp/"
+    
+  >写真収集アプリ
     </a>
               
             </li><li class="flex flex-col "><a
@@ -1063,9 +1079,6 @@
 
   <div class="hb-scrollbar text-sm [hyphens:auto] sticky top-16 overflow-y-auto pr-4 pt-6 max-h-[calc(100vh-var(--navbar-height)-env(safe-area-inset-bottom))] -mr-4 rtl:-ml-4"><p class="mb-4 font-semibold tracking-tight">このページの内容</p><ul>
       <li class="my-2 scroll-my-6 scroll-py-6">
-        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#%e8%ab%96%e6%96%87%e6%a6%82%e8%a6%81">論文概要</a>
-      </li>
-      <li class="my-2 scroll-my-6 scroll-py-6">
         <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#%e6%84%9f%e6%83%b3">感想</a>
       </li></ul>
 
@@ -1149,9 +1162,9 @@
       
       
       
-      <div class="article-header article-container featured-image-wrapper mt-4 mb-16" style="max-width: 720px; max-height: 579px;">
+      <div class="article-header article-container featured-image-wrapper mt-4 mb-16" style="max-width: 720px; max-height: 540px;">
         <div style="position: relative">
-          <img src="/post/dicomo2024/featured_hu14271791365137662311.webp" width="720" height="579" alt="" class="featured-image">
+          <img src="/post/dicomo2024/featured_hu14358351876166142575.webp" width="720" height="540" alt="" class="featured-image">
           
         </div>
       </div>
@@ -1169,21 +1182,59 @@
   <div class="text-sm">
   <nav id="TableOfContents">
   <ul>
-    <li><a href="#論文概要">論文概要</a></li>
     <li><a href="#感想">感想</a></li>
   </ul>
 </nav>
   </div>
 </details>
 
-<p>2024年9月1日から4日にかけて福岡県柳川市で開催された「18th International Workshop on Informatics (IWIN2024)」にて「A Proposal of Smartphone Beacons in Stay Estimation System using BLE」と題して発表した論文がExellent Paper Awardを受賞しました。</p>
-<h2 id="論文概要">論文概要</h2>
-<p>近年、BLEビーコンを用いた滞在推定システムの実用化が進んでいます。しかし、従来のシステムはユーザーが専用デバイスを持ち歩く必要や、バッテリー消費の大きなスマホアプリをインストールする必要があるなどの課題がありました。
-そこで本研究では、バッテリー消費の小さいスマホアプリの開発に加え、各ユーザーが専用デバイスとスマホアプリのどちらを使用するかを選べる柔軟なシステムを構築しました。このアプローチにより、幅広いユーザーが自分に合った方法を選択でき、よりさまざまな場面で使用できるシステムを実現しました。
-<img src="togawa_iwin2024_overview.jpg"></p>
+<p>2024年6月26日から28日にかけて岩手県花巻市で開催されたマルチメディア，分散，協調とモバイル(DICOMO2024)シンポジウムにて、「滞在管理システムおけるスマホビーコンの実現」と題して発表しました。</p>
+<!-- <img src="togawa_iwin2024_overview.jpg"> -->
 <!-- <img width="600" alt="20240926_173215.jpg (438.8 kB)" src="https://img.esa.io/uploads/production/attachments/13979/2024/09/30/129838/4f346fb5-b750-417a-b538-89cd4987a2cf.jpg"> -->
 <h2 id="感想">感想</h2>
-<p>今回初めての英語発表でした。 質疑応答ももちろん英語で行われかつ15分と長めでしたのでとても不安でした。しかし、発表原稿を覚えていたおかげでよく使う文法や単語が頭に入っていたのでなんとか切り抜けることができました。また、他の発表にも何回か英語で質問できたのでよかったかなと思います。 さらに、賞をいただけたことはとても嬉しく今後の研究に対する大きなモチベーションとなりました。これからもより一層研究に励みたいと思います。</p>
+<p>今回初めての全国規模の学会発表で非常に緊張しました。緊張のあまりマイクを使うのを終始忘れていましたが、声量でなんとかカバーしスムーズに発表できました。質疑応答の時間には時間オーバーするほど多くの質問やコメントをいただくことができました。発表後には他大学の先生から個別にスマホビーコンについて質問を受けて色々実のある話ができました。今回の経験を今後の研究に活かしていきたいと思います。</p>
+<p>
+            <div class="web-card group h-[120px] bg-white border shadow rounded-lg my-4 sm:my-6 px-0 overflow-hidden">
+              <a href="https://www.dicomo.org/2024/" class="flex group-hover:no-underline">
+
+                <div class="h-[120px] w-[120px] sm:w-auto max-w-[230px]">
+                  
+                  
+                  <div
+                    class="flex h-[120px] w-[120px] max-w-[230px] bg-gray-300 justify-center items-center text-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                      stroke="currentColor" class="h-8 w-8">
+                      <path stroke-linecap="round" stroke-linejoin="round"
+                        d="M2.25 15.75l5.159-5.159a2.25 2.25 0 013.182 0l5.159 5.159m-1.5-1.5l1.409-1.409a2.25 2.25 0 013.182 0l2.909 2.909m-18 3.75h16.5a1.5 1.5 0 001.5-1.5V6a1.5 1.5 0 00-1.5-1.5H3.75A1.5 1.5 0 002.25 6v12a1.5 1.5 0 001.5 1.5zm10.5-11.25h.008v.008h-.008V8.25zm.375 0a.375.375 0 11-.75 0 .375.375 0 01.75 0z" />
+                    </svg>
+                  </div>
+                  
+                </div>
+
+                <div
+                  class="flex flex-1 flex-col justify-between py-2 px-4 sm:py-3 sm:px-5 transition ease-in-out duration-100 group-hover:bg-primary-color-50">
+                  <div class="flex flex-1 flex-col gap-y-1">
+                    <div class="text-sm sm:text-base font-bold text-gray-800 leading-normal break-words line-clamp-2">
+                      
+                      
+                      www.dicomo.org
+                      
+                    </div>
+                    <div class="text-xs sm:text-sm text-gray-600 line-clamp-2">
+                      
+                    </div>
+                  </div>
+
+                  <div class="flex flex-1 flex-col justify-end">
+                    <div class="flex flex-row items-center">
+                      <img src="https://www.google.com/s2/favicons?sz=14&amp;domain_url=https://www.dicomo.org"
+                        class="fav-icon mr-1" alt="www.dicomo.org favicon image">
+                      <span class="text-xs sm:text-sm text-gray-600">www.dicomo.org</span>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
 
             <div class="web-card group h-[120px] bg-white border shadow rounded-lg my-4 sm:my-6 px-0 overflow-hidden">
               <a href="https://kajilab.net/hpg/blog/2024-06-27/" class="flex group-hover:no-underline">
@@ -1221,7 +1272,7 @@
                   </div>
                 </div>
               </a>
-            </div>
+            </div></p>
 <!-- ## Overview
 
 1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
@@ -1298,16 +1349,6 @@ Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main
   
 
   
-
-<div class="flex justify-center">
-  
-  <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium mr-2 px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="/tags/academic/">Academic</a>
-  
-  <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium mr-2 px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="/tags/hugo-blox/">Hugo Blox</a>
-  
-  <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium mr-2 px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="/tags/markdown/">Markdown</a>
-  
-</div>
 
 
   
@@ -1474,10 +1515,10 @@ Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main
     <a
       class="pr-2 transition-transform hover:scale-125 hover:text-primary-700 dark:hover:text-primary-400"
       style="will-change:transform;"
-      href="mailto:your-email@example.com"
+      href="mailto:b24716bb@aitech.ac.jp"
       
-      aria-label="At-Symbol"
-    ><svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.5" d="M16.5 12a4.5 4.5 0 1 1-9 0a4.5 4.5 0 0 1 9 0Zm0 0c0 1.657 1.007 3 2.25 3S21 13.657 21 12a9 9 0 1 0-2.636 6.364M16.5 12V8.25"/></svg></a>
+      aria-label="Mail.svg"
+    ><svg style="height: 1em;" viewBox="0 0 370 391" xmlns="http://www.w3.org/2000/svg"><g clip-rule="evenodd" fill-rule="evenodd"><path d="m207.5 22.4 114.4 66.6c13.5 7.9 21.9 22.4 21.9 38v136.4c0 17.3-9.3 33.3-24.5 41.8l-113.5 63.9a49.06 49.06 0 0 1 -48.5-.2l-104.5-60.1c-16.4-9.5-26.6-27-26.6-45.9v-129.5c0-19.1 9.9-36.8 26.1-46.8l102.8-63.5c16-9.9 36.2-10.1 52.4-.7z" fill="#ff4088" stroke="#c9177e" stroke-width="27" /><path d="m105.6 298.2v-207.2h43.4v75.5h71.9v-75.5h43.5v207.2h-43.5v-90.6h-71.9v90.6z" fill="#fff" /></g></svg></a>
   
     
     

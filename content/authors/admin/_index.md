@@ -32,8 +32,8 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+  - icon: "custom/mail"
+    url: 'mailto:b24716bb@aitech.ac.jp'
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
@@ -162,7 +162,7 @@ awards:
 ---
 
 ## About Me
-<span style="color:white">
+<span id="about-me-text" style="color:white;font-size:large;">
 高校3年生の時、HTMLを使って架空の高校の文化祭のホームページを作る授業がきっかけでプログラミングに興味を持ちました。 大学入学後は授業以外でも独学でプログラミングを学び、写真部で使用する写真投稿Webアプリを初めて実運用するプロダクトとして作成しました。 それ後もWebアプリにとどまらずラズパイを使ったシステムやAndroidアプリ、iOSアプリなど様々なものを開発しています。
 
 課外活動として大学では写真研究部に所属し、2年生時に広報、3年生時に部長を務めました。 部長として、今までやったことのない大学祭以外での写真展や、前年までとは全く異なる大学祭写真展のレイアウトなど、前例にとらわれず新しいことに挑戦しました。

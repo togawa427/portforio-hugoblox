@@ -24,7 +24,8 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-waves-yellow.svg
+          # filename: stacked-waves-yellow.svg
+          filename: mountsky.jpg
           #filename: stacked-peaks.svg
           filters:
             brightness: 1.0
@@ -76,7 +77,7 @@ sections:
         padding: [10, 0, 0, 0]
 
   # 経歴
-  - block: resume-experience
+  - block: my-resume-experience
     id: experience
     content:
       username: admin
@@ -90,7 +91,7 @@ sections:
         padding: [10, 0, 0, 0]
 
   # スキル
-  - block: resume-skills
+  - block: my-resume-skills
     id: skills
     content:
       title: Skills

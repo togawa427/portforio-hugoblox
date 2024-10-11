@@ -1,11 +1,10 @@
 .resume-biography {
   #profile {
     text-align: center;
-    padding: 0px 10px;
+    padding: 0px 20px;
     position: relative;
   }
 
-  #
 }
 
 .avatar-wrapper {
@@ -39,7 +38,8 @@
 }
 
 #section-my-resume-biography-3 {
-  padding: 2rem 0 4rem 0 !important;
+  padding: 1rem 0 10rem 0 !important;
+    margin: 0rem 0 0rem 0 !important;
 }
 
 #resume-biography-text-and-profile {
@@ -47,6 +47,9 @@
   position: relative;
 }
 
+#my-resume-biography-3-student {
+  color: white;
+}
 #aflep-discovery-research-highlight {
   /* background-color: white; */
   padding: 0rem 0 2rem 0 !important;
@@ -97,8 +100,13 @@
 #about-me {
   margin: 0rem 0 2rem 0 !important;
   padding: 0rem 0 0rem 0 !important;
+  /* color: black; */
 }
-
+/* 
+#about-me-text {
+  margin: 0rem 0 2rem 0 !important;
+  padding: 0rem 0 0rem 0 !important;
+} */
 .skills-name {
   text-transform: none;
 }

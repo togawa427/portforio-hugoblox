@@ -42,28 +42,20 @@
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/project/pandas/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/project/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/pytorch/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/scikit/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/%E9%81%8B%E7%94%A8%E4%B8%AD/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/wowchemy/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/project/kajilabshop/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/experience/</loc>
@@ -90,8 +82,32 @@
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/tags/%E3%82%B1%E3%83%BC%E3%83%A0/</loc>
+    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/project/facememorygame/</loc>
+    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/project/nuigurumigame/</loc>
+    <lastmod>2022-12-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/project/pcam/</loc>
+    <lastmod>2022-05-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/web/</loc>
+    <lastmod>2022-05-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/project/photoapp/</loc>
+    <lastmod>2021-07-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/project/cg2022/</loc>
@@ -99,10 +115,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/project/usagitokame/</loc>
-    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E3%82%B1%E3%83%BC%E3%83%A0/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
