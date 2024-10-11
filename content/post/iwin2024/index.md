@@ -10,11 +10,6 @@ image:
 
 authors:
   - admin
-
-tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
 ---
 
 {{< toc mobile_only=true is_open=true >}}
