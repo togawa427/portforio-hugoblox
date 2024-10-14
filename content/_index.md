@@ -124,6 +124,7 @@ sections:
   - block: collection
     id: products
     content:
+      count: 100
       title: Products & Development
       # text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
       filters:

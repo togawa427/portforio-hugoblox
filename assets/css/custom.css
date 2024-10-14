@@ -37,6 +37,25 @@
 
 }
 
+#news {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+#work {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+#events {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+#awards {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
 #section-my-resume-biography-3 {
   padding: 1rem 0 10rem 0 !important;
     margin: 0rem 0 0rem 0 !important;
