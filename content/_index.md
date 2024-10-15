@@ -102,7 +102,7 @@ sections:
         padding: [10, 0, 0, 0]
   
   # 職務経歴
-  - block: resume-awards
+  - block: works
     id: work
     content:
       title: Works
