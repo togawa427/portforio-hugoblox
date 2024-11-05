@@ -26,6 +26,6 @@ Laravelで開発した写真収集アプリの様々な問題点を解決する�
 - SQL
 
 ## 動作映像
-{{< youtube 1rH18jOk5rE >}}
+{{< youtube KpgQw66a3xM >}}
 
 <!--more-->
