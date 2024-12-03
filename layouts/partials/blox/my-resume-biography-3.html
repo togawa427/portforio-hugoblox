@@ -16,6 +16,17 @@
 {{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
 {{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
 
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-NPBC63FJCM"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-NPBC63FJCM');
+  </script>
+</head>
 
 <div class="resume-biography flex flex-col md:flex-row justify-center gap-12">
   <div class="flex-none m-w-[130px] mx-auto md:mx-0">
