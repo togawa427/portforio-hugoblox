@@ -13,6 +13,167 @@
     </image>
     
     <item>
+      <title>第43回CDS研究発表会でPrivBeaconに関する論文を発表しました</title>
+      <link>http://localhost:1313/post/cds43/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/cds43/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;目次&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;p&gt;2025 年 5 月 29 日から 30 日にかけてベトナムのハノイで開催された第 43 回 CDS 研究発表会で「滞在推定システムにおけるプライバシを考慮した携帯型 BLE ビーコンの設計と実装」と題して発表しました。&lt;/p&gt;
+&lt;!-- &lt;img src=&#34;togawa_iwin2024_overview.jpg&#34;&gt; --&gt;
+&lt;!-- &lt;img width=&#34;600&#34; alt=&#34;20240926_173215.jpg (438.8 kB)&#34; src=&#34;https://img.esa.io/uploads/production/attachments/13979/2024/09/30/129838/4f346fb5-b750-417a-b538-89cd4987a2cf.jpg&#34;&gt; --&gt;
+&lt;!-- ## 感想
+
+今回初めての全国規模の学会発表で非常に緊張しました。緊張のあまりマイクを使うのを終始忘れていましたが、声量でなんとかカバーしスムーズに発表できました。質疑応答の時間には時間オーバーするほど多くの質問やコメントをいただくことができました。発表後には他大学の先生から個別にスマホビーコンについて質問を受けて色々実のある話ができました。今回の経験を今後の研究に活かしていきたいと思います。 --&gt;
+
+            &lt;div class=&#34;web-card group h-[120px] bg-white border shadow rounded-lg my-4 sm:my-6 px-0 overflow-hidden&#34;&gt;
+              &lt;a href=&#34;https://www.ipsj.or.jp/kenkyukai/event/cds43.html&#34; class=&#34;flex group-hover:no-underline&#34;&gt;
+
+                &lt;div class=&#34;h-[120px] w-[120px] sm:w-auto max-w-[230px]&#34;&gt;
+                  
+                  
+                  &lt;img src=&#34;https://www.ipsj.or.jp/system/g5dn8200000000fl-img/ca39ob0000000akm.png&#34; alt=&#34;情報処理学会は、1960年の設立以来、めまぐるしく発展する情報処理分野のパイオニアとして、産業界・学界および官界の協力を得て、指導的役割を果たしてきました。&#34;
+                    class=&#34;m-0 h-full w-full object-cover shrink-0&#34;&gt;
+                  
+                  
+                &lt;/div&gt;
+
+                &lt;div
+                  class=&#34;flex flex-1 flex-col justify-between py-2 px-4 sm:py-3 sm:px-5 transition ease-in-out duration-100 group-hover:bg-primary-color-50&#34;&gt;
+                  &lt;div class=&#34;flex flex-1 flex-col gap-y-1&#34;&gt;
+                    &lt;div class=&#34;text-sm sm:text-base font-bold text-gray-800 leading-normal break-words line-clamp-2&#34;&gt;
+                      
+                      
+                      第43回CDS研究発表会-情報処理学会
+                      
+                      
+                    &lt;/div&gt;
+                    &lt;div class=&#34;text-xs sm:text-sm text-gray-600 line-clamp-2&#34;&gt;
+                      情報処理学会は、1960年の設立以来、めまぐるしく発展する情報処理分野のパイオニアとして、産業界・学界および官界の協力を得て、指導的役割を果たしてきました。
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+
+                  &lt;div class=&#34;flex flex-1 flex-col justify-end&#34;&gt;
+                    &lt;div class=&#34;flex flex-row items-center&#34;&gt;
+                      &lt;img src=&#34;https://www.google.com/s2/favicons?sz=14&amp;amp;domain_url=https://www.ipsj.or.jp&#34;
+                        class=&#34;fav-icon mr-1&#34; alt=&#34;www.ipsj.or.jp favicon image&#34;&gt;
+                      &lt;span class=&#34;text-xs sm:text-sm text-gray-600&#34;&gt;www.ipsj.or.jp&lt;/span&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+              &lt;/a&gt;
+            &lt;/div&gt;
+&lt;!-- 
+            &lt;div class=&#34;web-card group h-[120px] bg-white border shadow rounded-lg my-4 sm:my-6 px-0 overflow-hidden&#34;&gt;
+              &lt;a href=&#34;https://kajilab.net/hpg/blog/2024-06-27/&#34; class=&#34;flex group-hover:no-underline&#34;&gt;
+
+                &lt;div class=&#34;h-[120px] w-[120px] sm:w-auto max-w-[230px]&#34;&gt;
+                  
+                  
+                  &lt;img src=&#34;https://kajilab.net/hpg/img/main/logo.jpg&#34; alt=&#34;愛知工業大学 梶研究室の公式Webサイトです。研究実績や日常生活についての記事を掲載しています。&#34;
+                    class=&#34;m-0 h-full w-full object-cover shrink-0&#34;&gt;
+                  
+                  
+                &lt;/div&gt;
+
+                &lt;div
+                  class=&#34;flex flex-1 flex-col justify-between py-2 px-4 sm:py-3 sm:px-5 transition ease-in-out duration-100 group-hover:bg-primary-color-50&#34;&gt;
+                  &lt;div class=&#34;flex flex-1 flex-col gap-y-1&#34;&gt;
+                    &lt;div class=&#34;text-sm sm:text-base font-bold text-gray-800 leading-normal break-words line-clamp-2&#34;&gt;
+                      
+                      
+                      DICOMO2024で発表してきました
+                      
+                      
+                    &lt;/div&gt;
+                    &lt;div class=&#34;text-xs sm:text-sm text-gray-600 line-clamp-2&#34;&gt;
+                      愛知工業大学 梶研究室の公式Webサイトです。研究実績や日常生活についての記事を掲載しています。
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+
+                  &lt;div class=&#34;flex flex-1 flex-col justify-end&#34;&gt;
+                    &lt;div class=&#34;flex flex-row items-center&#34;&gt;
+                      &lt;img src=&#34;https://www.google.com/s2/favicons?sz=14&amp;amp;domain_url=https://kajilab.net&#34;
+                        class=&#34;fav-icon mr-1&#34; alt=&#34;kajilab.net favicon image&#34;&gt;
+                      &lt;span class=&#34;text-xs sm:text-sm text-gray-600&#34;&gt;kajilab.net&lt;/span&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+              &lt;/a&gt;
+            &lt;/div&gt; --&gt;
+&lt;!-- ## Overview
+
+1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
+2. The template can be modified and customised to suit your needs. It&#39;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
+3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+
+[//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&amp;#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&amp;#41;]&amp;#40;https://hugoblox.com&amp;#41;)
+
+### Get Started
+
+- 👉 [**Create a new site**](https://hugoblox.com/templates/)
+- 📚 [**Personalize your site**](https://docs.hugoblox.com/)
+- 💬 [Chat with the **Hugo Blox community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
+- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) #MadeWithHugoBlox
+- 💡 [Request a **feature** or report a **bug** for _Hugo Blox_](https://github.com/HugoBlox/hugo-blox-builder/issues)
+- ⬆️ **Updating Hugo Blox?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+
+## Crowd-funded open-source software
+
+To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+
+### [❤️ Click here to become a sponsor and help support Hugo Blox&#39;s future ❤️](https://hugoblox.com/sponsor/)
+
+As a token of appreciation for sponsoring, you can **unlock [these](https://hugoblox.com/sponsor/) awesome rewards and extra features 🦄✨**
+
+## Ecosystem
+
+- **[Bibtex To Markdown](https://github.com/GetRD/academic-file-converter):** Automatically import publications from BibTeX
+
+## Inspiration
+
+[Learn what other **creators**](https://hugoblox.com/creators/) are building with this template.
+
+## Features
+
+- **Page builder** - Create _anything_ with no-code [**blocks**](https://hugoblox.com/blocks/) and [**elements**](https://docs.hugoblox.com/reference/markdown/)
+- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
+- **Create content** in [**Markdown**](https://docs.hugoblox.com/reference/markdown/), [**Jupyter**](https://docs.hugoblox.com/getting-started/cms/), or [**RStudio**](https://docs.hugoblox.com/getting-started/cms/)
+- **Plugin System** - Fully customizable [**color** and **font themes**](https://docs.hugoblox.com/getting-started/customize/)
+- **Display Code and Math** - Code syntax highlighting and LaTeX math supported
+- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
+- **Beautiful Site** - Simple and refreshing one-page design
+- **Industry-Leading SEO** - Help get your website found on search engines and social media
+- **Media Galleries** - Display your images and videos with captions in a customizable gallery
+- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
+- **Multi-language** - 35+ language packs including English, 中文, and Português
+- **Multi-user** - Each author gets their own profile page
+- **Privacy Pack** - Assists with GDPR
+- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
+- **One-Click Deployment** - No servers. No databases. Only files. --&gt;
+&lt;!-- ## Themes
+
+Hugo Blox and its templates come with **automatic day (light) and night (dark) mode** built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.
+
+[Choose a stunning **theme** and **font**](https://docs.hugoblox.com/getting-started/customize/) for your site. Themes are fully customizable.
+
+## License
+
+Copyright 2016-present [George Cushen](https://georgecushen.com).
+
+Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>18th International Workshop on Informatics (IWIN2024)</title>
       <link>http://localhost:1313/event/iwin2024/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
@@ -1055,7 +1216,7 @@ Laravelで開発した写真収集アプリの様々な問題点を解決する�
 
     
     &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/1rH18jOk5rE?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/KpgQw66a3xM?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
       &gt;&lt;/iframe&gt;
     &lt;/div&gt;</description>
     </item>

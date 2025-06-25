@@ -15,19 +15,19 @@ main:
     weight: 12
   - name: Skills
     url: /#skills
-    weight: 13
+    weight: 14
   - name: Work
     url: /#work
-    weight: 14
+    weight: 15
   - name: Products
     url: /#products
-    weight: 15
-  - name: Events
-    url: /#events
     weight: 16
+  # - name: Events
+  #   url: /#events
+  #   weight: 16
   - name: Awards
     url: /#awards
-    weight: 17
+    weight: 13
 
 # main:
 #   - name: Bio
